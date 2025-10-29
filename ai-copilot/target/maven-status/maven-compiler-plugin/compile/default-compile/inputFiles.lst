@@ -1,0 +1,9 @@
+C:\Users\Lenovo\IdeaProjects\ai-copilot\src\main\java\com\ai\copilot\AiCopilotApplication.java
+C:\Users\Lenovo\IdeaProjects\ai-copilot\src\main\java\com\ai\copilot\controller\ChatController.java
+C:\Users\Lenovo\IdeaProjects\ai-copilot\src\main\java\com\ai\copilot\controller\ViewController.java
+C:\Users\Lenovo\IdeaProjects\ai-copilot\src\main\java\com\ai\copilot\dto\SessionSummary.java
+C:\Users\Lenovo\IdeaProjects\ai-copilot\src\main\java\com\ai\copilot\entity\ChatSession.java
+C:\Users\Lenovo\IdeaProjects\ai-copilot\src\main\java\com\ai\copilot\entity\Message.java
+C:\Users\Lenovo\IdeaProjects\ai-copilot\src\main\java\com\ai\copilot\repository\ChatSessionRepository.java
+C:\Users\Lenovo\IdeaProjects\ai-copilot\src\main\java\com\ai\copilot\repository\MessageRepository.java
+C:\Users\Lenovo\IdeaProjects\ai-copilot\src\main\java\com\ai\copilot\service\ChatService.java
