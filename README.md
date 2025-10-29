@@ -53,27 +53,6 @@ It reflects how AI can help people work smarter — and how consistency can turn
 
 ---
 
-## 🧩 Project Structure
-
-```
-
-ai-copilot/
-├── src/main/java/com/ai/copilot/
-│   ├── controller/
-│   ├── entity/
-│   ├── repository/
-│   ├── service/
-│   └── AiCopilotApplication.java
-├── src/main/webapp/WEB-INF/views/
-│   └── chat.jsp
-├── src/main/resources/
-│   └── application.properties
-└── pom.xml
-
-````
-
----
-
 ## 🪄 How It Works
 
 1. **Start a New Chat Session** → Each session gets a unique ID and title.  
